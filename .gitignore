@@ -1,0 +1,6 @@
+*.[oa]
+*.pyc
+*~
+*.sqlite
+
+__pycache__/
